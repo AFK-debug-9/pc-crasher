@@ -1,3 +1,4 @@
+#!/bin/python39
 input('I (The Creator, ERROR#3317) am not responsible for any damage done or unsaved data lost (I mean which app doesn\'t have auto-save). [Press Enter to Continue]')
 import random
 a='aaab'
